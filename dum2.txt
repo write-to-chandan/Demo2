@@ -1,0 +1,2 @@
+dummy2
+This is second dummy file.
